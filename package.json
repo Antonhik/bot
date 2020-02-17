@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "npm test",
+    "test": "npm test",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
